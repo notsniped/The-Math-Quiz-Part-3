@@ -1,5 +1,5 @@
 body {
-	background-image: url("https://wallpapercave.com/wp/PO6cjaY.jpg");
+    background-image: url("https://wallpapercave.com/wp/PO6cjaY.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -29,4 +29,5 @@ body {
 }
 #heading {
     color: white;
+    background-color: black;
 }
